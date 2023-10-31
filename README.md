@@ -1,7 +1,7 @@
 # PROJECT AKHIR DDP Kel 13
 
 # Gameshop
-Sebuah sistem dimana admin dapat melakukan penjualan dan pengguna dapat melakukan transaksi pembelian game
+Sebuah sistem dimana admin dapat melakukan penjualan dan pengelolaan game serta pengguna dapat melakukan transaksi pembelian game
 
 ## Module & Library
 1. `import os`: Digunakan untuk berinteraksi dengan sistem operasi.
